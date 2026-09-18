@@ -45,7 +45,23 @@ Complete the reasoning between sentences. When a sentence introduces a change or
 
 Give each paragraph a clear opening suited to its role: a contribution, an empirical problem, a researcher action, or a connection with the previous argument. Vary openings because their argumentative roles differ. Avoid repeated templates such as "The question of X became", "X also raised", or "Taken together". Let paragraph length and structure follow the material; do not repeat definition–case A–case B–theory–contribution for every dimension.
 
-State supported claims positively and proportionately. Avoid habitual "not X but Y", "not only", "rather than", "instead of", and tension manufactured with while. Preserve substantive empirical differences and necessary negation. Remove defensive disclaimers such as "I do not claim" or "This should not be understood as"; state genuine limitations directly in the appropriate place. Avoid unsupported claims to redefine a field, establish a paradigm, prove a theory, or generalise to all VR design.
+## Mandatory rhetorical constraints
+
+Apply all three constraints to every drafted or revised passage, including English prose and Chinese checking paragraphs.
+
+### No defensive writing
+
+Do not pre-empt imagined objections or apologise for the contribution. Remove formulations such as "I do not claim that", "This should not be understood as", "This does not mean", "I am not suggesting", and "Rather than claiming"; also remove Chinese equivalents such as “我并不是要声称” and “这不应被理解为”. State the supported finding directly. Give genuine limitations their concrete scope, evidence, and consequences in the appropriate section. Preserve necessary uncertainty and evidence gaps without framing them as a defence against an imagined critic.
+
+### No inflated ambition
+
+Keep the contribution commensurate with the study's evidence and scope. Do not portray the thesis as redefining a field, transforming participatory design, establishing a new paradigm, resolving a discipline-wide problem, or proving a universal principle. Avoid promotional novelty claims and promises of sweeping impact. Name the precise analytical insight or design decision, the accounts supporting it, and the setting in which it applies. Prefer grounded formulations such as "My analysis identifies..." followed by the actual insight. A modest opening verb alone cannot repair an exaggerated substantive claim.
+
+### No negation-and-replacement sentence structures
+
+Do not use “不是……而是……” or any equivalent construction in generated prose. This is a prohibition, not a preference to reduce their frequency. It includes "not X but Y", "not merely/simply/just X but Y", "not only X but also Y", "X rather than Y", "instead of X, Y", "less X than Y", and "beyond X to Y" when used to stage the same corrective opposition; Chinese equivalents include “并非……而是……”, “与其……不如……”, and “不仅……更是……”. Do not disguise the pattern across sentences, with a dash or colon, or through "Rather," / "Instead," after rejecting an alternative.
+
+State the substantive claim directly. Express two supported facts in separate sentences, or explain their causal relationship. For example, write "I designed visitor actions around the spatial constraints described in each account." For empirical comparison, name each case's conditions and explain what their difference contributes. Remove manufactured tension with but/while/whereas; retain factual comparison through concrete descriptions. Necessary factual negation can stand on its own: "She could not see the box's edges. She knew she was enclosed." Preserve exact participant quotations; if a quotation contains a prohibited structure, do not rewrite it and present the alteration as verbatim speech. Select another faithful short excerpt where possible.
 
 ## Close and check
 
@@ -54,6 +70,8 @@ Consolidate the established contribution at the section ending. Develop the next
 Review each sentence for information, necessity, and logical connection: What does it tell the reader? Why here? What does it take from the previous sentence? What does it establish for the next? Would deletion lose any argument? Remove filler and supply missing inferential steps.
 
 Then check the whole section for contribution-led orientation, necessary participant context, exact short quotations, verified cross-references, analytical comparison, purposeful theory, named researcher actions, concrete design consequences, explained dimension names, appropriate authorship, and proportionate claims. Confirm that evidence was not invented to satisfy the checklist.
+
+Perform a separate final rhetorical pass in both languages: remove defensive framing, reduce every oversized claim to its evidenced scope, and rewrite every negation-and-replacement construction. Check semantic equivalents and patterns spread across sentences; a keyword scan alone is insufficient. Recheck that these edits preserve empirical differences, necessary uncertainty, and the logical links between sentences.
 
 When English/Chinese checking is requested, deliver corresponding paragraphs. English is thesis prose; Chinese should make the reasoning readily inspectable through natural language. Match substantive claims, evidence, attribution, agency, and certainty across both versions. Chinese must not add reasoning or evidence missing from English. For continuation of the originating PhD's established bilingual workflow, retain that paired format unless the user changes it. Otherwise follow the requested language without imposing bilingual output.
 

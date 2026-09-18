@@ -24,9 +24,9 @@ Use this when checking a draft or revising the skill. Numbers preserve the origi
 20. Name researcher-designer interpretation and action between participant input and immersive form.
 21. Specify concrete design consequences in light, geometry, sound, action, access, or other supported features.
 22. Give this/these and other pronouns unmistakable referents.
-23. Avoid habitual artificial oppositions and rhetorical tension; express factual differences directly.
-24. Avoid defensive disclaimers; state real limitations directly in their appropriate section.
-25. Make clear, proportionate contributions without grandiose or universal claims.
+23. Prohibit every “不是……而是……” / "not X but Y" construction and semantic equivalent in generated English and Chinese prose, including rather than, instead of, not only...but also, and disguised versions across sentences. Express claims and empirical differences directly. Preserve exact source quotations without silently rewriting them.
+24. Prohibit defensive writing, imagined-objection rebuttals, and apologetic disclaimers. State supported claims directly and give genuine limitations their concrete scope and consequences in the appropriate section.
+25. Prohibit inflated ambition, promotional novelty, and sweeping field-wide or universal claims. Specify the evidenced insight and its actual scope; inspect the substance even when the introductory verb sounds modest.
 26. Use I/my for an individual PhD's analysis and design decisions.
 27. Explain what each dimension adds beyond its definition; do not turn the underlying questions into obligatory rhetorical questions.
 28. End 6.1 by consolidating its existing contribution, without surprise frameworks or research questions.
@@ -34,3 +34,5 @@ Use this when checking a draft or revising the skill. Numbers preserve the origi
 30. In bilingual delivery, pair English thesis prose with natural Chinese checking paragraphs and preserve identical substantive claims.
 
 Do not satisfy any item by inventing evidence. If a needed source, implementation record, exact quote, or label is unavailable, make that gap visible.
+
+Items 23–25 incorporate the user's subsequent explicit clarification. Check them as mandatory constraints in a separate final pass over both languages, including semantic patterns that keyword searches cannot detect.
