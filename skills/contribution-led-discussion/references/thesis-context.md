@@ -1,97 +1,97 @@
-# 本论文的 Discussion 论证任务书
+# Thesis Discussion argument brief
 
-## 已确定的研究位置
+## Established research position
 
-本文件依据“撰写讨论与结论”中用户确认的最终 30 条要求及后续语言约束整理。四个维度和案例用途属于已确定的写作要求。参与者事实仍需对照 Chapter 5；原话版本、section labels、实际 VR 实现和访客结果须分别查证。对话中的助手草稿只提供核查线索。
+This brief follows the final 30 requirements confirmed by the user in the conversation about writing the Discussion and Conclusion, together with subsequent language constraints. The four dimensions and analytical uses of cases are established writing requirements. Check participant facts against Chapter 5; verify quotation variants, section labels, actual VR implementations, and visitor outcomes separately. Assistant drafts in the conversation provide leads for verification.
 
-Chapter 5 已完成经验发现并形成四个 dimensions。6.1 的核心 contribution 固定为：**a situated design space for translating lived experience into participatory immersive form**。保留 situated、lived experience、participatory immersive form 的含义。四个维度共同组织转译中的设计关切和决定。不要重新叙述四个维度如何从数据中被发现，也不要把每个维度扩大成独立的大理论。
+Chapter 5 has already established the empirical findings and four dimensions. The central contribution of 6.1 is **a situated design space for translating lived experience into participatory immersive form**. Preserve the meanings of situated, lived experience, and participatory immersive form. The dimensions jointly organise design concerns and decisions during translation. Do not retell how the dimensions were discovered from the data or enlarge each into an independent grand theory.
 
-6.1 应让读者理解：不同参与者经验进入 VR 时，我依据什么识别需要保留的内容，如何解释材料、组织感官和行动条件，以及这些决定如何影响访客接触参与者叙述的方式。每个维度都必须推进这项整体认识。
+Section 6.1 must explain how I identify what to preserve when different participants' experiences enter VR, how I interpret material and organise sensory and action conditions, and how those decisions shape visitors' encounters with participants' accounts. Every dimension must advance this overall understanding.
 
-## Affective fidelity：分别识别每个 account 需要保留的连续性
+## Affective fidelity: identify the continuity required by each account
 
-**论证任务。** 解释 lived experience 改变媒介后，什么必须仍然可辨认，并把答案具体到参与者定义的身体—感知—空间联系。不能止于“保留情绪”“忠于原经验”或“身体与空间有关”。
+**Analytical task.** Explain what must remain recognisable when lived experience changes medium, specifying the participant-defined connections among body, perception, and space. “Preserving emotion”, “being faithful to experience”, or “the body relates to space” is insufficient.
 
-**B08 的必要材料。** “completely black”；看不见盒子的形状或边缘；“simply knew”自己被封闭。保留感知上的不可见和身体对封闭的确定感。不可把它简写为 a dark room，再推断某种通用恐惧。
+**Required B08 material.** “completely black”; the inability to see the box's shape or edges; “simply knew” she was enclosed. Retain both perceptual invisibility and bodily certainty of enclosure. Do not compress this into a dark room and infer generic fear.
 
-**B06 的必要材料。** 独居小 loft、没有拖把、使用水桶和小毛巾、跪着反复擦地板/厕所表面/角落/砖缝；“grown together”和“washing my own body”。这些细节解释反复身体接触如何形成熟悉感。首次建立比较时保留这条经验链；后文可用明确的短语回指。不能只剩“与家产生 embodied relationship”。
+**Required B06 material.** Living alone in a small loft, having no mop, using a bucket and small towel, repeatedly kneeling to wipe floors, bathroom surfaces, corners, and grout; “grown together” and “washing my own body”. These details explain how repeated bodily contact developed familiarity. Retain this experiential chain when first establishing the comparison; use clear references back to it later. An embodied relationship with home is an inadequate summary on its own.
 
-**必须写出的比较所得。** 两个 account 都使身体经验进入空间意义；各自需要保持可辨认的联系不同。B08 是 limited visibility → bodily certainty of enclosure；B06 是 repeated kneeling/touching/reaching/wiping → familiarity with the room。由此说明 fidelity 的内容须根据每个 account 识别。若比较结论能原样套用任何两名参与者，该结论仍过于笼统。
+**Required comparative inference.** Both accounts make bodily experience consequential to spatial meaning; the connections requiring recognisable continuity differ. For B08: limited visibility → bodily certainty of enclosure. For B06: repeated kneeling/touching/reaching/wiping → familiarity with the room. Explain why the content of fidelity must therefore be identified account by account. A conclusion interchangeable across any two participants remains too general.
 
-**理论的工作。** Merleau-Ponty 的 embodied perception 用于解释已识别的身体经验为何参与空间感知。随后回到本研究的进一步工作：跨媒介时，我怎样选择并设计使上述联系保持可辨认的条件。禁止以“B08 证明 embodied perception”结束。
+**Theoretical work.** Merleau-Ponty's embodied perception explains why the bodily experiences already identified participate in spatial perception. Return to the further work of this study: how I select and design conditions that keep those connections recognisable across media. Do not conclude that B08 proves embodied perception.
 
-**研究者行动与设计后果。** 逐个查设计记录，写明我保留/调整的光线、可见几何、边界或其他真实要素及理由。对话曾提出 B08 使用弱光辅助方向、周围几何难以看清，写成完成时前须核实。B06 必须查明实际采用了哪些表面、尺度、距离或交互安排。参与者擦洗的事实不能证明 VR 实现了擦洗交互、触觉反馈，或访客获得相同熟悉感。
+**Researcher action and design consequences.** Check the design records individually. Name the lighting, visible geometry, boundaries, or other actual features I retained or adjusted, with reasons. The conversation proposed weak orientation light and surrounding geometry that remains difficult to see for B08; verify these before writing them as completed implementation. For B06, establish which surfaces, scales, distances, or interactions were actually used. The participant's cleaning does not establish a VR cleaning interaction, haptic feedback, or equivalent visitor familiarity.
 
-**名称解释。** fidelity 对应跨媒介后仍可辨认的连续性；affective 对应参与者通过身体、感觉和空间联系经历该情境的方式。在第一次正式展开本维度时，把这两部分接到案例分析上。
+**Explain the name.** Fidelity concerns recognisable continuity across media; affective concerns how the participant experienced the situation through bodily, sensory, and spatial connections. Connect both components to the case analysis at the first substantive development of the dimension.
 
-**验收。** 读者能分别回答 B08 和 B06 保留什么、为何不同、我据此作了什么有据可查的决定，以及这项比较为 design space 提供了什么判断依据。
+**Acceptance.** Readers can identify what is preserved for B08 and B06, why it differs, which evidenced decisions I made in response, and what basis for design judgement the comparison adds to the design space.
 
-## Participant-specific multimodal convergence：确定哪些联系随感官线索一起进入设计
+## Participant-specific multimodal convergence: identify the connections accompanying a sensory cue
 
-**论证任务。** 解释 situated sensory meaning 改变媒介时，设计者必须共同处理哪些来自参与者叙述的要素。不能把多放声音、光线和物件视为本维度的充分说明。
+**Analytical task.** Explain which elements of a participant's account the designer must consider together when situated sensory meaning changes medium. Adding sounds, lights, and objects is insufficient explanation of this dimension.
 
-**主要比较。** B07 / B04。B07 保留“the loudspeaker in the residential compound”、共享居住区的声音来源、声音进入私人房间、参与者在房间中听到它的空间关系。B04 保留“visual noise and white noise”，并从 Findings 确認与声音属于同一记忆事件的身体、光线、空间安排、移动和等待。
+**Main comparison.** B07 / B04. For B07, retain “the loudspeaker in the residential compound”, its source in a shared residential space, its entry into the private room, and the participant's position hearing it there. For B04, retain “visual noise and white noise”; verify in Findings the bodies, light, spatial arrangement, movement, and waiting belonging to the same remembered event as the sound.
 
-**需要核查的上下文。** 对话草稿提到 B07 在封控中的春天、租住房间、物资焦虑和重新布置房间；B04 的集体 PCR、颤动身体/光线和等待。按原始材料确认后，只选对当前推理必要的细节。不可把草稿中列出的细节直接当成已核实的事实。
+**Context requiring verification.** Conversation drafts mention B07's spring during lockdown, rented room, anxiety about supplies, and room rearrangement; they mention B04's collective PCR testing, trembling bodies/light, and waiting. Confirm these against primary materials, then select the details necessary for the inference. Draft descriptions are not automatically verified facts.
 
-**必须写出的比较所得。** B07 的声音连接外部共享空间与私人房间；B04 的声音和检测场景中的身体、光线、行动/等待共同构成记忆。明确说出两组组合各是什么，以及差异为何改变转译决定。“sound is situated”不足以完成比较。
+**Required comparative inference.** B07's sound connects external shared space and a private room; B04's sound combines with bodies, light, and action/waiting in a testing scene. Name both configurations and explain why their difference changes translation decisions. “Sound is situated” does not complete this comparison.
 
-**理论的工作。** Pink 为 sensory experience 的 situatedness 提供定位。研究继续处理的步骤是：一段声音移入 VR 时，原叙述中哪些空间和感官联系需要同行，哪些实际设计选择使这些联系可辨认。新增文献必须帮助说明这个具体步骤。
+**Theoretical work.** Pink positions the situatedness of sensory experience. The further step concerns which spatial and sensory connections in the original account need to accompany sound into VR, and which actual design choices make those connections recognisable. New literature must clarify this specific step.
 
-**研究者行动与设计后果。** 查明我实际决定的声音来源/位置、空间内外关系、视觉要素、光线、身体或运动安排、访客位置。只写记录支持的组合及组合理由。不能凭“共现于记忆”声称 VR 全部重建了这些要素，也不能凭多感官设计声称沉浸感提高。
+**Researcher action and design consequences.** Establish my actual choices about sound source/location, inside–outside spatial relationships, visual elements, lighting, bodies or movement, and visitor position. Describe only combinations supported by the records, with reasons. Co-occurrence in a memory does not establish that VR reconstructed every element. Multisensory design does not itself establish increased immersion.
 
-**名称解释。** multimodal 指声音、光、颜色、身体动作、物件、材料和空间安排等模式；convergence 指这些模式围绕同一个记忆情境组合；participant-specific 指组合的根据来自该参与者的叙述。三个部分都须接到 B07/B04 的具体差异。
+**Explain the name.** Multimodal includes sound, light, colour, bodily action, objects, materials, and spatial arrangement. Convergence concerns their combination around the same remembered situation. Participant-specific identifies the participant's account as the basis for that combination. Connect all three components to the concrete B07/B04 differences.
 
-**验收。** 读者能指出每个 account 的组合、组合依据、我如何重新组织它，以及它怎样帮助设计者处理经验的跨媒介转译。
+**Acceptance.** Readers can identify each account's configuration, its evidential basis, how I reorganised it, and how this helps a designer address the translation of experience across media.
 
-## Constrained agency：把参与者行动转译为有条件的访客行动
+## Constrained agency: translate participant action into situated visitor action
 
-**论证任务。** 解释可执行的动作与赋予动作意义的空间条件如何一起进入 VR。不能用移动距离、自由度大小或“有互动”直接替代分析。
+**Analytical task.** Explain how executable actions and the spatial conditions giving them meaning enter VR together. Movement distance, degrees of freedom, or the presence of interaction cannot replace this analysis.
 
-**B02 的必要材料。** “another space”；在同一室内通过改变身体位置/姿势产生不同空间感。保留说明这个小动作为何有意义的生活背景与位置。床、飘窗、地板、桌下/床下、居家习惯和对封控相对可承受的叙述，均应按 Findings 确认后选用，避免无关罗列。
+**Required B02 material.** “another space”; changes in bodily position/posture producing a different sense of space within the same room. Retain the living context and positions needed to explain why the small action mattered. Verify details about bed, bay window, floor, under-desk/under-bed spaces, domestic habits, and a relatively manageable lockdown against Findings before selecting them. Avoid irrelevant lists.
 
-**B04 的必要材料。** “cells”和“what that cell permitted”；离开一个受控空间，进入另一个具有许可动作的空间。写明边界如何改变可做之事。若用蓝帐篷/买西瓜/返回宿舍等事件解释移动意义，先核对原文，只保留能说明限制和行动的细节。
+**Required B04 material.** “cells” and “what that cell permitted”; leaving one controlled space to enter another with its own permitted actions. Explain how boundaries changed what could be done. If using a blue-tent/watermelon/return-to-dormitory episode to explain movement's significance, verify the original account and retain the details that explain restrictions and actions.
 
-**必须写出的比较所得。** B02 的位置或姿势改变使熟悉房间获得不同体验；B04 的跨边界移动改变当时允许的行动。设计 agency 时，我需要识别每个动作在参与者条件下的意义。不要把两例都压为“movement matters”，也不要将其归纳为更多自由自动带来更多 agency。
+**Required comparative inference.** B02's change in position or posture altered the experience of a familiar room; B04's boundary crossing changed the actions permitted there. Designing agency requires me to identify each action's meaning under the participant's conditions. “Movement matters” loses the distinction. Do not infer that greater freedom automatically produces more agency.
 
-**理论的工作。** Dourish 的 embodied interaction / practical engagement 定位行动与环境条件之间已识别的联系。进一步说明我如何把参与者生活中的动作及条件转成访客可执行的动作及条件。
+**Theoretical work.** Dourish's embodied interaction / practical engagement positions the identified connection between action and environmental conditions. Explain the further step of translating participants' lived actions and conditions into actions and conditions available to visitors.
 
-**研究者行动与设计后果。** 分别查明 B02 的位置/视角如何在实际 VR 中改变，B04 的边界、路线、出入和许可动作怎样实现。写出访客具体可做什么，以及执行动作时周围条件如何组织体验。禁止推测传送、强制路线、交互锁或其他未记录的机制。
+**Researcher action and design consequences.** Establish how B02's position/viewpoint actually changes in VR and how B04's boundaries, routes, entry/exit, and permitted actions are implemented. State exactly what visitors can do and how surrounding conditions organise the encounter during that action. Do not invent teleportation, forced routes, interaction locks, or other undocumented mechanisms.
 
-**名称解释。** agency 指访客可执行的行动；constrained 指来自参与者叙述、赋予行动意义的边界、位置、路线和许可。B02 的例子也须解释条件如何起作用，避免把 constrained 缩成一类政治限制的标签。
+**Explain the name.** Agency concerns actions available to visitors. Constrained concerns the boundaries, positions, routes, and permissions drawn from the account that give action meaning. Explain how conditions operate for B02 as well; avoid reducing constrained to a label for political restriction.
 
-**验收。** 读者能把 participant action、其生活条件、我的解释和 visitor action 连起来，并看出 B02/B04 比较带来的设计认识。
+**Acceptance.** Readers can connect participant action, its lived conditions, my interpretation, and visitor action, and identify the design insight produced by comparing B02/B04.
 
-## Structured interpretive openness：说明参与结束之后的解释与设计责任
+## Structured interpretive openness: explain interpretation and design responsibility after participation
 
-**论证任务。** 追踪 participant voice 在工作坊之后怎样经过我的选择进入 immersive form，再成为访客可接触的内容。写明多种意义如何得到保留、谁组织了接触条件。不能声称材料自然变成 VR，也不能把 openness 等同于任意解释。
+**Analytical task.** Trace participant voice through my post-workshop choices into immersive form and the content available to visitors. Explain how several meanings remain available and who organises their conditions of encounter. Do not imply that material naturally becomes VR or equate openness with arbitrary interpretation.
 
-**account 内部。** B03 的“both warm and lonely”保留同一场景中的两种意义；从 Findings 提取足以解释温暖与孤独为何共存的情境。对话草稿提到生日独处、猫、蛋糕和热咖啡，须核查。不能把这句话压成 emotional ambiguity 就结束。
+**Within an account.** B03's “both warm and lonely” retains two meanings within the same scene. Extract sufficient context from Findings to explain their coexistence. Conversation drafts mention a birthday alone, a cat, cake, and hot coffee; verify these details. Emotional ambiguity alone loses the analytical content of the quotation.
 
-**其他内部位置。** B05 的 watched / watching 可用于分析被观看与观看他人的位置如何共存；需要原始材料支撑这一用途。不得把该描述自动扩展成特定监控交互机制。
+**Other positions within an account.** B05's watched / watching can support analysis of the coexistence of being watched and watching other people, subject to primary evidence. Do not automatically turn this description into a particular surveillance interaction mechanism.
 
-**accounts 之间。** B05 的“stolen time”或“stolen years”与 B02 相对可承受的封控经验提供不同位置。核对 B05 的确切原话版本；写明是什么生活条件和叙述使差异成立。不要从任一案例概括所有人的封控经验。
+**Between accounts.** B05's “stolen time” or “stolen years” and B02's relatively manageable lockdown present different positions. Verify B05's exact quotation variant. Explain the living conditions and descriptions making the difference intelligible. Do not generalise from either case to everyone's lockdown experience.
 
-**必须写出的分析所得。** 分别说明同一 account 的多种意义，以及不同 accounts 的不同位置。我选择什么使它们在空间中仍然可辨认；这些选择怎样组织访客进入、接近、观看、聆听或行动。内部多义和案例间差异各有分析工作，不能统称“diversity”后省略。
+**Required analytical inference.** Separately explain multiple meanings within an account and different positions across accounts. Identify what I selected to keep them recognisable in the spaces, and how these choices organised entry, approach, looking, listening, or action. Both forms of multiplicity have distinct analytical work; the label diversity cannot replace it.
 
-**理论的工作。** Couldry 的 voice 用来定位表达之后的问题。必须继续写出工作坊结束后的行动链：参与者表达/创作 → 我解释与选择 → 空间和交互呈现 → 访客接触的内容和条件。理论不能只用于宣告参与者发声的重要性。
+**Theoretical work.** Couldry's voice positions the problem following expression. Continue through the post-workshop chain: participant expression/creation → my interpretation and selection → spatial and interactive presentation → content and conditions encountered by visitors. The citation must do more than declare that participant voice matters.
 
-**研究者行动与设计后果。** 查明我实际选择的颜色、声音、物件、材料、可见性、尺度、边界、移动或交互，以及这些选择突出/保留了叙述中的什么。写出具体决定，不得列完设计元素后就称“保留了声音”。访客实际如何理解，需要独立的观察/反馈证据。
+**Researcher action and design consequences.** Establish my actual choices about colour, sound, objects, materials, visibility, scale, boundaries, movement, or interaction, and what each foregrounded or retained from the account. A list of design elements followed by a claim to preserve voice is insufficient. Claims about visitors' actual interpretations require separate observation or feedback evidence.
 
-**名称解释。** openness 对应 account 内及 accounts 间保留的多种意义/位置；interpretive 对应持续的 researcher-designer interpretation；structured 对应颜色、声音、空间、物件、边界及交互如何组织 visitor encounter。三部分共同解释设计者的责任。
+**Explain the name.** Openness concerns multiple meanings/positions retained within and between accounts. Interpretive identifies continuing researcher-designer interpretation. Structured concerns how colour, sound, space, objects, boundaries, and interaction organise the visitor encounter. Together, these components explain the designer's responsibility.
 
-**验收。** 读者能识别保留的意义/位置、我的具体选择、访客面对的条件及归属于哪个参与者的叙述，并由此理解后续 accounts 之间关系的讨论。
+**Acceptance.** Readers can identify the meanings/positions retained, my concrete choices, the conditions encountered, and the participant to whom an account remains attributable. This establishes the basis for discussing relationships among accounts.
 
-## 理论、引文与章节核查
+## Theory, quotations, and chapter checks
 
-Merleau-Ponty、Pink、Dourish、Couldry 是已确定的主要对话对象。实际引用需读取对应文献或 Chapter 2 中已核实的论述，并确认 bibliography。研究简报仅提供检索线索。每个新增引用要写得出它支持哪一句主张，以及该支持怎样使 contribution 更精确；无法说清用途则删去。
+Merleau-Ponty, Pink, Dourish, and Couldry are the established main dialogue partners. Before citation, read the relevant source or verified discussion in Chapter 2 and check the bibliography. Research briefings provide search leads. For each new citation, identify the sentence it supports and how that support sharpens the contribution; remove citations without a specific function.
 
-对话曾出现 B08 Sec. 5.3.1、B06 Sec. 5.1.3 等引用。最终以当前 Chapter 5 为准，逐例核对真实 section 和 LaTeX label。一个包含多个案例的段落应让每个案例对应到各自出处。
+The conversation includes references such as B08 Sec. 5.3.1 and B06 Sec. 5.1.3. Check each against the current Chapter 5 and actual LaTeX labels. When a paragraph contains several cases, make each case's source identifiable.
 
-## 6.1 收束及进入 6.2
+## Concluding 6.1 and entering 6.2
 
-结尾完成以下推理：案例的身体、感官、行动及解释问题 → 比较得到的差异 → 我的具体转译决定 → 四个相连的维度 → situated design space 的整体作用。不要另起四个 rhetorical questions、增加第五个维度或发明额外框架。
+Complete the chain: bodily, sensory, action, and interpretive problems in the accounts → differences identified through comparison → my concrete translation decisions → four connected dimensions → the overall function of the situated design space. Do not introduce four new rhetorical questions, a fifth dimension, or an additional framework.
 
-下一步明确改变分析尺度：这些各自 situated、identifiable、different 的参与者空间共同进入 Void Monument，接下来讨论它们如何相邻、关联并保持归属。6.2 标题为 **From Individual Accounts to a Relational Counter-Archive**。
+Make the next change of analytical scale explicit: these individually situated, identifiable, and different participant spaces coexist in Void Monument; the discussion now concerns their adjacency, relationships, and attribution. The title of 6.2 is **From Individual Accounts to a Relational Counter-Archive**.
 
-juxtaposition、provenance、revisitation、reinterpretation 应承担可解释的工作：不同记忆如何并置且保持差异；如何识别叙述来源；如何重访；如何在其他记忆的邻接中再次理解。具体机制须由作品和章节材料支持。不要把术语并列当成衔接，不要根据 B01–B08 的编号范围推断空间总数。
+Give juxtaposition, provenance, revisitation, and reinterpretation explanatory work: how memories coexist and retain differences; how their sources remain identifiable; how they can be revisited; and how adjacency to other memories allows renewed interpretation. Ground specific mechanisms in the work and chapter materials. A list of terms cannot establish this transition. Do not infer the number of spaces from the B01–B08 ID range.

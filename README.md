@@ -6,7 +6,7 @@ Reusable academic-writing skills for evidence-grounded Discussion writing.
 
 [Skill instructions](skills/contribution-led-discussion/SKILL.md) support drafting, revision, and checking of qualitative and practice-based academic Discussion sections. They preserve contribution-led reasoning, participant context and short quotations, explicit cross-case analysis, theoretical positioning, and concrete researcher-designer decisions.
 
-The instructions are written primarily in Chinese for direct review, with English thesis-prose examples. The package includes:
+The skill instructions and supporting documents are written in English. Chinese text is retained only where needed to illustrate prohibited expressions or bilingual checking. The package includes:
 
 - [A thesis argument brief](skills/contribution-led-discussion/references/thesis-context.md): each dimension's analytical task, required participant context, comparison result, theoretical role, design evidence, and acceptance criteria.
 - [All 30 requirements with operational checks](skills/contribution-led-discussion/references/requirements-checklist.md): what to do and how to determine whether the draft satisfies each requirement.

@@ -1,153 +1,153 @@
-# 最终 30 条要求：操作方法与验收标准
+# Final 30 requirements: actions and acceptance criteria
 
-编号对应用户确认的最终版要求。第 23–25 条按后续明确指令执行强制约束。用于写作和交付前检查；不能把这些编号转成正文的固定段落模板。
+The numbering follows the final requirements confirmed by the user. Requirements 23–25 incorporate the subsequent mandatory language constraints. Use this document during writing and before delivery; do not turn its numbering into a fixed paragraph template.
 
-## 1. 从已经成立的 contribution 开始
+## 1. Start from the established contribution
 
-**执行：** 开头交代本节解释的 contribution、它解决的研究/设计问题。后续每组案例都应回到该问题。6.1 承接 Chapter 5 已形成的维度。
-**验收：** 隐去引文后，读者仍能说出本研究提出什么、此节要说明其何种意义。以逐位参与者回顾开篇后重新宣布 dimension emerged，或用作者观点逐条组织整节，均须重写。
+**Action:** Open with the contribution this section explains and the research/design problem it addresses. Each subsequent group of cases must return to that problem. Section 6.1 builds on dimensions already established in Chapter 5.
+**Acceptance:** Even with citations hidden, readers can identify what this study contributes and what significance the section explains. Rewrite openings that recap participants individually and rediscover a dimension, or organise the entire section around successive authors' views.
 
-## 2. 四个维度共同组成 situated design space
+## 2. The four dimensions jointly form a situated design space
 
-**执行：** 保留完整表述 a situated design space for translating lived experience into participatory immersive form；说明四个维度各处理哪类设计关切，并在收束处连接其作用。
-**验收：** 读者能解释整体 contribution 和维度之间的关系。四项各自宣称独立理论突破、贡献范围扩大到全领域，判为不合格。
+**Action:** Retain a situated design space for translating lived experience into participatory immersive form. Explain the design concern addressed by each dimension and connect their functions in the conclusion.
+**Acceptance:** Readers understand the relationship between the overall contribution and its dimensions. Claims of four independent theoretical breakthroughs or field-wide transformation fail this requirement.
 
-## 3. 重用 Findings 必须增加论证
+## 3. Reused Findings must perform new argumentative work
 
-**执行：** 每次调用案例，内部记下它此处新增的工作，如比较不同连续性、说明声音转译需保留的联系、展示行动条件。删去已经在 Findings 完成的逐步发现过程。
-**验收：** 能具体回答“这一例使 Discussion 多解释了什么”。只再次讲述案例然后重复维度名称，仍须修改。
+**Action:** Internally identify the new work of each case: comparing different continuities, identifying connections needed in sound translation, or demonstrating action conditions. Remove the step-by-step discovery process already completed in Findings.
+**Acceptance:** Explain exactly what the case adds to the Discussion. Retelling a case and repeating a dimension's name requires further revision.
 
-## 4. 保留推理必需的情境
+## 4. Retain context necessary for the inference
 
-**执行：** 按当前主张保留生活条件、空间条件、动作与感觉。B06 首次支撑触碰与熟悉感时，必须给出小 loft、无拖把、桶/小毛巾、跪着擦表面/角落/砖缝及有关原话构成的经验链。后续可明确回指。
-**验收：** 读者无需凭空想象就能理解动作如何发生及其意义。压成 embodied relationship 会丢失链条；重复无关生平或完整工作坊分析过程也需删减。
+**Action:** Select living conditions, spatial conditions, actions, and sensations according to the current claim. When first using B06 to connect touch and familiarity, retain the experiential chain of small loft, no mop, bucket/small towel, kneeling to wipe surfaces/corners/grout, and relevant quotations. Later references can point back explicitly.
+**Acceptance:** Readers can understand how the actions occurred and why they mattered without inventing context. An embodied relationship loses this chain; irrelevant biography and a complete workshop analysis also require trimming.
 
-## 5. 原话承担证据工作
+## 5. Participant quotations must function as evidence
 
-**执行：** 保留有辨识度的短语，通常优先 2–8 词；准确标出参与者，紧接具体解释。B06 的 grown together 后须解释反复跪、触碰、伸手和擦洗与熟悉感的联系。
-**验收：** 引文删去后会损失参与者表达的重要含义；解释增加了对经验的理解。原话后只接 an embodied relationship 或 emotional complexity，判为未完成分析。不要为缩到词数范围截坏原意。
+**Action:** Retain distinctive short phrases, usually preferring 2–8 words. Attribute them accurately and follow them with concrete interpretation. After B06's grown together, explain how repeated kneeling, touching, reaching, and wiping relate to familiarity.
+**Acceptance:** Removing the quotation would lose meaningful participant expression, and the explanation adds understanding of the experience. Following it only with an embodied relationship or emotional complexity leaves analysis incomplete. Do not damage meaning to meet the suggested word range.
 
-## 6. 每个案例有 Findings 出处
+## 6. Give each case a Findings source
 
-**执行：** 为每个重新调用的参与者材料标注具体 Findings section。多个案例各有出处；最终 LaTeX 使用已核实的 Sec.~\ref{label}。
-**验收：** 原话和情境能回到对应位置。对话中的示例节号必须核实；无标签时注明待核查，不可生成看似真实的 label。
+**Action:** Attach a specific Findings section reference to each reused participant example. Give multiple cases their respective sources. In final LaTeX, use verified Sec.~\ref{label} references.
+**Acceptance:** Quotations and context can be traced to the relevant location. Verify example section numbers from the conversation. Mark missing labels for checking; never invent plausible-looking labels.
 
-## 7. Plain language 保留概念深度
+## 7. Preserve conceptual depth in plain language
 
-**执行：** 找出 contributes an account of、brings this concern into、provides a way of understanding、adds a further consideration 等包装语，写出其遮住的主体、动作和对象。保留有分析用途的学术术语。
-**验收：** 改后仍有原来的关系、理由和范围，读者更容易识别谁做了什么。仅换成日常词、删掉必要推理或压短句子不构成合格修改。
+**Action:** Inspect contributes an account of, brings this concern into, provides a way of understanding, adds a further consideration, and similar packaging. State the actor, action, and object they conceal. Keep academic terms that perform analytical work.
+**Acceptance:** The revision retains relationships, reasons, and scope while making who did what easier to identify. Everyday vocabulary, shorter sentences, or the deletion of necessary reasoning alone do not satisfy this requirement.
 
-## 8. 提出的意思必须展开完整
+## 8. Complete each introduced thought
 
-**执行：** 对“工作坊后转译继续”等句子追问谁继续做什么、使用什么材料、结果影响了什么。把 I interpreted words/drawings/sensory descriptions、空间/交互选择及访客接触条件补齐。
-**验收：** 当前句与紧邻后文完成这条解释。若下一句直接换成理论名字或新案例，留下的推理须补写。
+**Action:** For a sentence such as translation continued after the workshop, identify who continued doing what, with which materials, and what the result affected. Supply the interpretation of words/drawings/sensory descriptions, spatial/interactive choices, and visitor encounter conditions.
+**Acceptance:** The sentence and its immediate continuation complete the explanation. If the next sentence jumps to a theorist or a new case, add the missing reasoning.
 
-## 9. 每句都有不可替代的工作
+## 9. Give each sentence necessary work
 
-**执行：** 为句子识别具体信息/推理功能，检查此时出现的理由。删除后若论证无损就删除；缺少承接时补写具体关系。
-**验收：** This is important、This adds another layer 等泛泛过渡必须说出重要在哪里、增加了什么；不能只为学术语气保留。
+**Action:** Identify each sentence's specific informational or inferential function and why it appears here. Delete it if removal leaves the argument intact. Supply a concrete relationship when a transition is missing.
+**Acceptance:** Generic transitions such as This is important or This adds another layer must specify what matters or what is added. Academic tone alone cannot justify retention.
 
-## 10. 逐句逻辑不能跳步
+## 10. Close the logical links between sentences
 
-**执行：** 从参与者细节解释具体经验，再进行比较/解释、理论定位、设计后果和贡献判断。检查 therefore、because、shows 后的结论是否真的由前文支撑；按实际推理调整顺序。
-**验收：** 读者能从相邻句找到推论依据。B08 invisible box → Merleau-Ponty → affective fidelity 中间缺经验解释与比较，判为不合格。无需每段重复全部步骤。
+**Action:** Interpret participant details as concrete experience, then develop comparison/interpretation, theoretical positioning, design consequences, and contribution claims. Check that conclusions following therefore, because, or shows are supported. Order the prose according to the actual reasoning.
+**Acceptance:** Readers can find the basis for an inference in the adjacent argument. B08 invisible box → Merleau-Ponty → affective fidelity lacks experiential interpretation and comparison. Every paragraph need not repeat all stages.
 
-## 11. 明说已知的具体对象
+## 11. Name known concrete objects
 
-**执行：** 逐次检查 particular、specific、certain、relationship、condition、possibility、meaning、experience、difference、interpretation、process。用证据可命名的对象补足：B08 的视线与封闭，B06 的反复触碰与熟悉，B04 的边界与许可动作，B07 的外部声源与私人房间。
-**验收：** 每个抽象名词可在本句或清楚的近邻句找到对象。笼统名词被另一笼统名词替换，仍不通过。
+**Action:** Inspect each particular, specific, certain, relationship, condition, possibility, meaning, experience, difference, interpretation, and process. Supply what the evidence names: B08's visibility and enclosure, B06's repeated contact and familiarity, B04's boundaries and permitted actions, B07's external sound source and private room.
+**Acceptance:** Each abstract noun has an identifiable object in the sentence or a clear nearby sentence. Substituting another vague category fails the check.
 
-## 12. Specific/particular 不得假装具体
+## 12. Specific/particular cannot simulate specificity
 
-**执行：** 删除无信息的修饰词，或立即列明所指条件。把 specific bodily and spatial conditions 展开成 restricted visibility and enclosure for B08 / repeated contact with domestic surfaces for B06。
-**验收：** 读者无需追问“具体是什么”。禁止只改成 distinctive、situated 或 unique 继续遮蔽内容。
+**Action:** Remove uninformative modifiers or immediately name the conditions. Expand specific bodily and spatial conditions into restricted visibility and enclosure for B08, and repeated contact with domestic surfaces for B06.
+**Acceptance:** Readers do not need to ask what is specific. Substituting distinctive, situated, or unique while leaving the content unnamed fails the check.
 
-## 13. 段首清楚且有自然差异
+## 13. Make openings clear and naturally varied
 
-**执行：** 按本段工作起句：定义贡献要处理的问题、点出经验差异、承接前段未完成问题、直接写我的动作。检查连续开头有无 The question of、X also raised、Taken together 等重复。
-**验收：** 首句告诉读者本段为何在此处出现。随机轮换连接词或每段都用 Comparing A and B 开头，仍需修改。
+**Action:** Open according to the paragraph's work: state the contribution's problem, identify an empirical difference, continue an unresolved issue, or name my action. Check consecutive openings for repeated The question of, X also raised, Taken together, and similar templates.
+**Acceptance:** The first sentence explains why this paragraph belongs here. Randomly rotating transitions or opening every paragraph with Comparing A and B requires revision.
 
-## 14. 结构和篇幅服从论证
+## 14. Let structure and length follow the argument
 
-**执行：** 按材料所需安排段落；affective fidelity 可充分展开，multimodal convergence 承接转译，constrained agency 深入 B02/B04，openness 推向解释责任与 6.2。
-**验收：** 四个维度没有机械重复 definition → A → B → theory → contribution 的相同篇章；差异来自论证任务。不要为了表面不对称故意增删必要内容。
+**Action:** Allocate paragraphs according to the material. Affective fidelity can develop at greater length; multimodal convergence can continue translation; constrained agency can examine B02/B04 closely; openness can lead towards interpretive responsibility and 6.2.
+**Acceptance:** The four dimensions do not mechanically repeat definition → A → B → theory → contribution. Structural differences follow analytical tasks. Do not add or remove necessary content merely to create asymmetry.
 
-## 15. 比较必须产生认识
+## 15. Comparison must produce an insight
 
-**执行：** 写出共享问题、各自差异及由差异得到的认识。B08/B06 必须明确比较 visibility–enclosure 和 repeated contact–familiarity，并指出 fidelity 内容需按 account 识别。
-**验收：** 两例之后有明确推论，且替换案例后该推论不能原样照用。“Both are embodied”无法通过。真实差异用正面事实表达。
+**Action:** State the shared issue, the differences, and the insight those differences support. Explicitly compare visibility–enclosure and repeated contact–familiarity for B08/B06, then explain why the content of fidelity is account-specific.
+**Acceptance:** The cases lead to an explicit inference that cannot be reused unchanged with arbitrary replacement cases. Both are embodied is insufficient. Express genuine differences through direct factual descriptions.
 
-## 16. 理论解释已经识别的关系
+## 16. Theory explains an identified relationship
 
-**执行：** 先在分析中说明关系，再写理论为何解释其重要性，以及它如何帮助理解转译问题。可以先定位理论背景，具体推论仍须由案例分析提供。
-**验收：** 每个理论引用都有能命名的分析对象；删除作者名仍能看出自己的解释。禁止用理论名字替代经验分析或以 My findings confirm X 作贡献结论。
+**Action:** Establish the relationship through analysis, explain how theory clarifies its importance, and connect it to the translation problem. Theoretical background may appear earlier; the specific inference still requires case analysis.
+**Acceptance:** Every theoretical citation has a named analytical object. My interpretation remains identifiable if the author's name is removed. A theoretical name cannot substitute for analysis, and My findings confirm X cannot serve as the contribution conclusion.
 
-## 17. Contribution 保持主动位置
+## 17. Keep the contribution in the active position
 
-**执行：** 写出“该理论讨论何事 → 本研究在跨媒介转译中进一步处理何事 → 哪些案例/决定使这一步具体”。按实际论证自然穿插。
-**验收：** Pink 后能说明哪些感官联系要随线索进入设计，Dourish 后能说明生活动作如何转成访客动作，Couldry 后能说明参与结束后的解释责任。只总结理论不通过。
+**Action:** Explain what the theory addresses, what this study further addresses during translation across media, and which cases/decisions make that step concrete. Integrate these relationships naturally into the argument.
+**Acceptance:** Discussion of Pink identifies sensory connections that accompany a cue; Dourish helps explain lived action becoming visitor action; Couldry helps explain interpretive responsibility after participation. A theory summary alone fails the check.
 
-## 18. 新文献逐条说明用途
+## 18. Give each new source a specific purpose
 
-**执行：** 新增前核实原文与书目信息，内部记明它将支持哪句论证、帮助区分何种贡献、为何现有引用不足以完成这项工作。无法指出具体作用就不添加。
-**验收：** 近期研究没有淹没我的分析；研究简报内容没有直接被当作已核实文献事实。不设文献数量或年份配额。
+**Action:** Verify the original source and bibliography before adding it. Internally identify the sentence it supports, the contribution it helps distinguish, and why existing citations do not complete that work. Omit sources without a specific role.
+**Acceptance:** Recent literature does not overwhelm my analysis. Research briefings are not treated as verified source evidence. Do not impose citation-count or publication-year quotas.
 
-## 19. 名称必须得到解释
+## 19. Explain the dimension names
 
-**执行：** 首次正式展开维度时，把名称组成部分接到经验分析。四个名称的逐词含义见论文任务书；保持术语一致。
-**验收：** 读者能说明 fidelity/affective、participant-specific/multimodal/convergence、agency/constrained、structured/interpretive/openness 分别指向哪些分析对象。只列词典定义或很晚才补一段 glossary 不通过。
+**Action:** At the first substantive development of each dimension, connect the components of its name to the empirical analysis. Use the meanings in the thesis brief and keep terminology consistent.
+**Acceptance:** Readers can identify the analytical objects of fidelity/affective, participant-specific/multimodal/convergence, agency/constrained, and structured/interpretive/openness. Dictionary definitions or a delayed glossary alone fail the requirement.
 
-## 20. 我的解释和行动有明确主体
+## 20. Name the agent of interpretation and action
 
-**执行：** 找到 account became、materials translated into 等掩盖决策者的句子，补明 I interpreted X as Y、为什么这样解释、I selected/kept/arranged 什么。
-**验收：** 参与者提供内容与我作出决定之间的步骤可追踪。把作品拟人化、把我的解释写成参与者的决定，均须纠正。
+**Action:** Locate account became, materials translated into, and other sentences hiding the decision-maker. Explain I interpreted X as Y, the reason for that interpretation, and what I selected/kept/arranged.
+**Acceptance:** The steps between participant input and my decision are traceable. Correct sentences that personify the artefact or attribute my interpretation to the participant.
 
-## 21. Design consequence 具体可核对
+## 21. Make design consequences concrete and verifiable
 
-**执行：** 每个 this informed the design 都应替换为记录支持的光线、边界、几何、材料、距离、声音、移动、视角、交互、尺度或 access 的变化，写明理由与访客可接触的条件。
-**验收：** 读者能指出到底改了哪一个要素、它做什么。只列三四个设计名词仍不够。没有实现记录时标出缺项，禁止发明功能。
+**Action:** Replace each this informed the design with supported changes in light, boundaries, geometry, material, proximity, sound, movement, viewpoint, interaction, scale, or access. Explain the reason and resulting conditions available to visitors.
+**Acceptance:** Readers can identify which feature changed and what it does. A list of three or four design nouns is insufficient. Mark missing implementation records; never invent features.
 
-## 22. 指代有唯一对象
+## 22. Give pronouns a unique referent
 
-**执行：** 对 This suggests、This relationship、These conditions、This process 等，标出具体先行对象。前文有多个候选时直接重写对象，如 B08's connection between limited vision and enclosure。
-**验收：** 不需要回读多个句子猜测所指。不要为避免 this 而把所有句子写成相同长名词开头。
+**Action:** Identify the exact antecedent of This suggests, This relationship, These conditions, This process, and similar phrases. When several candidates exist, name the object directly, such as B08's connection between limited vision and enclosure.
+**Acceptance:** Readers do not need to reread several sentences to guess the referent. Do not replace every this with the same long noun-phrase opening.
 
-## 23. 禁止否定前项再抬高后项
+## 23. Prohibit negation followed by an elevated replacement
 
-**执行：** 在英文、中文及解释文字中检查 SKILL.md 所列禁用结构；包括跨句否定后用 Rather/Instead 引出结论的变体。直接写有效主张；两项事实均有价值时分别陈述并解释联系。
-**验收：** 生成文本不保留 not X but Y、rather than、instead of、not only X but also Y、“不是……而是……”及同类论证套路。事实否定和准确的参与者短原话仍按证据处理；不能偷偷改引文。
+**Action:** Check English, Chinese, and explanatory text for the constructions listed in SKILL.md, including cross-sentence rejection followed by Rather/Instead. State the substantive claim directly. When both facts matter, describe them separately and explain their relationship.
+**Acceptance:** Generated prose contains no not X but Y, rather than, instead of, not only X but also Y, “不是……而是……”, or equivalent rhetorical pattern. Handle factual negation and exact participant excerpts according to the evidence; never silently rewrite quotations.
 
-## 24. 禁止防御性写作
+## 24. Prohibit defensive writing
 
-**执行：** 删除预先反驳假想误读的句子，把研究实际完成的分析/设计和证据范围写清楚。局限章节正常说明真实局限。
-**验收：** 无 I do not claim、This should not be understood as、I am not suggesting 等辩解。以 It would be wrong to assume 或中文“需要澄清的是，本研究无意……”改头换面也不通过。
+**Action:** Remove advance rebuttals of imagined misreadings. State the analysis/design actually completed and its evidential scope. Describe genuine limitations directly in the limitations discussion.
+**Acceptance:** No I do not claim, This should not be understood as, I am not suggesting, or equivalent defensive framing remains. Rephrasing it as It would be wrong to assume or “需要澄清的是，本研究无意……” also fails.
 
-## 25. 禁止过度野心与夸大
+## 25. Prohibit inflated ambition and overclaiming
 
-**执行：** 检查每个 claim 的动作、对象、范围和证据：提出了什么认识、依据哪些 account、对何种转译问题有用。删改超出该范围的范式、全领域、普遍效果和首次突破主张。
-**验收：** 换成 My study shows 后仍声称解决全部 VR memory design，依然不通过。不得将设计意图升级为证实的访客效果。
+**Action:** Check the action, object, scope, and evidence of each claim: what insight is proposed, which accounts support it, and which translation problem it addresses. Revise claims about paradigms, entire fields, universal effects, or first-ever breakthroughs that exceed that scope.
+**Acceptance:** A claim to resolve all VR memory design still fails after adding My study shows. Never upgrade a design intention into a demonstrated visitor effect.
 
-## 26. 个人 PhD 使用 I/my
+## 26. Use I/my for the individual PhD
 
-**执行：** 我的分析、解释、制作和选择均用 I、my findings、my analysis、my study、my design decisions。检查 we/our 是否误指本研究作者。
-**验收：** 研究者责任清楚；引用他人原文或真实群体发言时维持准确归属，不作机械替换。
+**Action:** Use I, my findings, my analysis, my study, and my design decisions for my analysis, interpretation, making, and choices. Check whether we/our incorrectly refers to this study's author.
+**Acceptance:** Researcher responsibility is clear. Preserve accurate attribution in quotations or genuine group statements; avoid mechanical pronoun replacement.
 
-## 27. 每个维度说明新增认识
+## 27. State the insight added by each dimension
 
-**执行：** 分别完成：什么保持可辨认；哪些感官联系跨媒介同行；生活动作如何成为访客行动；参与之后 voice 如何经由我的解释与设计呈现。答案必须带具体关系和决定。
-**验收：** 维度段落除了名称解释，还有研究新增认识。不得直接把上述任务变成四个 rhetorical questions 后就结束。
+**Action:** Explain what remains recognisable, which sensory connections accompany translation, how lived actions become visitor actions, and how voice proceeds through my interpretation and design after participation. Include specific relationships and decisions.
+**Acceptance:** Each dimension contains an added research insight as well as an explanation of its name. Turning these tasks into four rhetorical questions and stopping there fails the check.
 
-## 28. 结尾收束已建立的贡献
+## 28. Consolidate the established contribution at the ending
 
-**执行：** 连回案例比较、我的设计决定、四维联系和 situated design space 的作用。只总结前文已论证的内容。
-**验收：** 没有新 framework、额外维度、新 RQ 或新的无证据主张；也没有再讲一次维度发现过程。
+**Action:** Reconnect case comparison, my design decisions, the four dimensions, and the function of the situated design space. Summarise only what the preceding argument establishes.
+**Acceptance:** No new framework, extra dimension, research question, or unsupported claim appears. Do not repeat the dimensions' discovery process.
 
-## 29. 6.1 到 6.2 显示尺度变化
+## 29. Show the change of scale from 6.1 to 6.2
 
-**执行：** 先说明 individual accounts 如何进入各自 immersive form，再说明这些有归属、有情境、有差异的空间共同进入 Void Monument，引出 relations among memories。
-**验收：** 读者能解释为何接下来讨论 juxtaposition、provenance、revisitation、reinterpretation。只放 relational counter-archive 标题或一串术语不通过；相关机制须按作品材料说明。
+**Action:** Explain individual accounts entering their immersive forms, then the coexistence of these attributable, situated, different spaces in Void Monument. Introduce relationships among memories from that change of scale.
+**Acceptance:** Readers understand why juxtaposition, provenance, revisitation, and reinterpretation follow. A relational counter-archive heading or a list of terms alone fails. Explain mechanisms using evidence from the work.
 
-## 30. 中英文逐段对应且主张一致
+## 30. Align English and Chinese paragraphs substantively
 
-**执行：** 英文写完整 thesis prose，中文自然呈现同一论证。逐段核对主张、参与者为何在此、理论为何在此、设计动作、结论及确定性。
-**验收：** 中文没有新增英文未完成的推理、证据或设计事实；英文的 may/intended 没有变成中文的“证明/实现”。发现逻辑缺口时两种语言一起修复。
+**Action:** Write complete English thesis prose and natural Chinese expressing the same argument. Check each paragraph's claim, reason for including its participant and theory, design action, conclusion, and certainty.
+**Acceptance:** Chinese adds no reasoning, evidence, or design facts absent from English. English may/intended does not become a Chinese claim of proof or implementation. Repair logical gaps in both languages together.
