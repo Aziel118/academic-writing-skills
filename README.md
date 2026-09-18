@@ -9,6 +9,7 @@ Reusable academic-writing skills for evidence-grounded Discussion writing.
 The skill instructions and supporting documents are written in English. Chinese text is retained only where needed to illustrate prohibited expressions or bilingual checking. The package includes:
 
 - [A thesis argument brief](skills/contribution-led-discussion/references/thesis-context.md): each dimension's analytical task, required participant context, comparison result, theoretical role, design evidence, and acceptance criteria.
+- [Participant context cards](skills/contribution-led-discussion/references/participant-context.md): all eight accounts, their supplied P/VR-space mapping, living context, quotation variants, actions, artefacts, reported designs, and reference leads. B07's interview-only status is explicit.
 - [All 30 requirements with operational checks](skills/contribution-led-discussion/references/requirements-checklist.md): what to do and how to determine whether the draft satisfies each requirement.
 - [Revision examples](skills/contribution-led-discussion/references/revision-examples.md): concrete failures, missing reasoning, repair examples, and evidence checks.
 

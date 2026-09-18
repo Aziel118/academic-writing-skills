@@ -10,7 +10,7 @@ Apply the writing requirements to arguments, evidence, sentences, and design dec
 ## Required reading and scope
 
 - For every task, read [the 30 operational requirements and acceptance criteria](references/requirements-checklist.md). Apply them during revision and check them before delivery.
-- For this user's PhD, Void Monument, Chapter 6, the four dimensions, or B02–B08, also read [the thesis argument brief](references/thesis-context.md), including every dimension relevant to the task. It specifies why cases appear, what comparison must establish, what theory contributes, and which design facts need verification.
+- For this user's PhD, Void Monument, Chapter 6, the four dimensions, or B01–B08, also read [the thesis argument brief](references/thesis-context.md) and the relevant cards in [the user-supplied participant context](references/participant-context.md). Read the identity map before making participant/space claims. The brief specifies argumentative work; the cards supply concrete context, quotations, artefacts, reported designs, and source limitations.
 - For sentence-level revision, language review, or the first complete draft, read [the failure analyses and revision examples](references/revision-examples.md). Apply their diagnostic method; avoid copying their sentences as templates.
 - For other research, apply the writing standards using that study's own contribution, evidence, cases, and chapter structure.
 
@@ -31,7 +31,7 @@ Prepare the following internal record for the requested text. Normally, do not i
 | Visitor encounter | Implemented conditions for seeing, hearing, approaching, or acting; distinguish design intentions from measured responses. |
 | Missing evidence | Record missing quotations, design records, source support, or labels individually; never fill these gaps through speculation. |
 
-Distinguish verified research facts, cases retained from the conversation pending checks against primary materials, and design sentences used only to demonstrate writing. The latter two categories cannot automatically become claims about implemented features or visitor outcomes. Case descriptions in this skill do not replace Chapter 5 or actual design records.
+Distinguish verified primary evidence, user-supplied research context and reported design descriptions, earlier assistant-draft suggestions, and sentences used only to demonstrate writing. Use the supplied context as the current working account; do not repeatedly request facts it already supplies. Check exact wording and manuscript references for final citation. Draft suggestions and examples cannot become implementation claims. Reported features do not establish visitor outcomes. B07 is identified as interview only, without an independent numbered VR space. Case descriptions in this skill do not replace Chapter 5 or actual design records.
 
 ## Develop the prose
 

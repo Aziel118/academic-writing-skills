@@ -2,6 +2,8 @@
 
 The failure sentences below identify problems. Revisions demonstrate language and reasoning; they are not verified thesis evidence. Actual delivery requires real Findings references and source support; design examples require implementation records. Adapt them to their paragraph context. Do not apply one set of sentences to all four dimensions.
 
+The later [participant-context document](participant-context.md) supplies additional facts and quotation variants. The examples below retain earlier illustrative wording; before using them in thesis prose, reconcile it with the current source. In example A, “washing my own body” differs from the supplied English “washing your own body”. In example C, B07 is interview only. B08's features in D are now reported by the user, although visitor outcomes still require separate evidence.
+
 ## A. A vague relationship and lost context
 
 **Failure:** “B06 developed a particular embodied relationship with her home.”

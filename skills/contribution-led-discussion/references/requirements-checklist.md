@@ -2,6 +2,8 @@
 
 The numbering follows the final requirements confirmed by the user. Requirements 23–25 incorporate the subsequent mandatory language constraints. Use this document during writing and before delivery; do not turn its numbering into a fixed paragraph template.
 
+For this PhD, use the [participant context cards](participant-context.md) during these checks. Verify identity correspondence before discussing a space: B07 is interview only. Distinguish interview accounts, workshop drawings, reported implementations, researcher rationale, and visitor responses. Check quotation variants, particularly B06's my/your own body. The supplied context gives empirical detail; it does not change the contribution-led organisation required below.
+
 ## 1. Start from the established contribution
 
 **Action:** Open with the contribution this section explains and the research/design problem it addresses. Each subsequent group of cases must return to that problem. Section 6.1 builds on dimensions already established in Chapter 5.
