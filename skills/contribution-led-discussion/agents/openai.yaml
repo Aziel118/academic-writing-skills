@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contribution-led Discussion"
+  short_description: "Write grounded, contribution-led academic discussions"
+  default_prompt: "Use $contribution-led-discussion to revise my Discussion using my findings and design records, preserving participant voice and explaining the contribution."
